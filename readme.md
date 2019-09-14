@@ -34,7 +34,7 @@ airbnb_seattle.ipynb: Jupyter notebook with python code performing the dataset a
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@tongxingren/the-impact-of-geolocation-on-price-of-airbnb-rooms-eca89510186c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
